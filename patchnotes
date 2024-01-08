@@ -1,4 +1,3 @@
 Patch Notes:
-1. Fixed ChaosMacro
-2. Fixed ChaosMacro instructions
-3. Added tutorial videos for ChaosMacro and ECAmacro
+1. Fixed Steamermacro not reactivating cabal when stopped.
+2. Added temporary fix for ECA and Chaos macro stop.
