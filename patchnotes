@@ -1,3 +1,5 @@
 Patch Notes:
-1. Fixed Steamermacro not reactivating cabal when stopped.
-2. Added temporary fix for ECA and Chaos macro stop.
+1. Re-added PVS Support (Multiclient may not work for some private servers).
+2. Faster loading times.
+3. Added splash intro.
+4. No private server tabs when PVS is not activated (Cleaner UI for COPH users).
