@@ -1,4 +1,5 @@
 Patch Notes:
+*Emergency fix for ECA and CA portal entry*
 1. Re-added PVS Support (Multiclient may not work for some private servers).
 2. Faster loading times.
 3. Added splash intro.
