@@ -1,6 +1,2 @@
 Patch Notes:
-*Emergency fix for ECA and CA portal entry*
-1. Re-added PVS Support (Multiclient may not work for some private servers).
-2. Faster loading times.
-3. Added splash intro.
-4. No private server tabs when PVS is not activated (Cleaner UI for COPH users).
+1. Added MultiClient for Cabal Rose
