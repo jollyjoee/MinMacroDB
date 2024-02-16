@@ -1,5 +1,5 @@
 Patch Notes:
-1. Optimized Code.
-2. Added dynamic download link support (for auto updates) to avoid errors in updating.
+1. Fixed SeniMacro bug when rechanneling.
+2. Increased timer before Re-running CA and ECA.
 
-PLEASE REQUEST A NEW DOWNLOAD LINK FROM FB.COM/MINMACRO IN ORDER TO GET THE LATEST VERSION TEMPORARILY
+IF YOU HAVE A VERSION LOWER THAN 2.4.0, PLEASE REQUEST A NEW DOWNLOAD LINK FROM FB.COM/MINMACRO IN ORDER TO GET THE LATEST VERSION TEMPORARILY
