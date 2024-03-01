@@ -1,5 +1,3 @@
 Patch Notes:
-1. Fixed SeniMacro bug when rechanneling.
-2. Increased timer before Re-running CA and ECA.
-
-IF YOU HAVE A VERSION LOWER THAN 2.4.1, PLEASE REQUEST A NEW DOWNLOAD LINK FROM FB.COM/MINMACRO IN ORDER TO GET THE LATEST VERSION TEMPORARILY
+1. Removed Multiclient for COPH
+2. Merged Basic and AutoDG Packages into one
