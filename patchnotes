@@ -1,12 +1,6 @@
 Patch Notes:
 
-It is unfortunate that CABAL will now come to an end.
-
-As our final present to you, our loyal and valuable customers, MinMacro is now Free!
-
-Thank you everyone, and we appreciate all your support <3
-
 1. Optimized script for lower versions of windows.
 2. Fixed free ECA and CA
 3. Fixed free Premium (Rechannel)
-4. Fixed Cabal closing randomly (Have to start minmacro before cabal)
+4. Fixed error sometimes popping up
