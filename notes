@@ -1,3 +1,5 @@
 1. Added support for both 800x600 and 1024x768 for auto-attack.
+2. Fixed Register.
+3. Fixed the bug where when you stop auto attack, then start again, it will not work.
 
 Salamat po sa patience. Happy grinding po!
