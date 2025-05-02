@@ -1,4 +1,6 @@
-1. Added invitation function. Now users can send invitations to their friends easily. For each user that uses your invitation code, you will automatically get free additional 5 days.
-2. Fixed app for latest cabal patch :)
+1. Added smart retarget (Only retarget once current target is dead).
+2. Added smart auto pots, only heal once your hp reaches a certain % threshhold. (Put HP pots in A+= slot).
+3. Fixed app not running issues.
+
 
 Salamat po sa patience. Happy grinding po!
